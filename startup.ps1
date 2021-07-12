@@ -20,4 +20,6 @@ $AUTOCONNECT = "false"
 $VPN_PROTOCOL = "wireguard"
 $DISABLE_IPV6 = "no"
 $MAX_LATENCY = "0.05"
+$LOCAL_NETWORK_BYPASS = "true"
+$ALLOWED_IPS = ""
 ./run_setup.ps1
